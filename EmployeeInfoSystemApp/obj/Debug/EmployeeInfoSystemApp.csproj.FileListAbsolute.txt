@@ -1,0 +1,19 @@
+D:\Rishit computers Ltd\project\EmployeeInfoSystemApp\EmployeeInfoSystemApp\bin\Debug\EmployeeInfoSystemApp.exe.config
+D:\Rishit computers Ltd\project\EmployeeInfoSystemApp\EmployeeInfoSystemApp\bin\Debug\EmployeeInfoSystemApp.exe
+D:\Rishit computers Ltd\project\EmployeeInfoSystemApp\EmployeeInfoSystemApp\bin\Debug\EmployeeInfoSystemApp.pdb
+D:\Rishit computers Ltd\project\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.csprojResolveAssemblyReference.cache
+D:\Rishit computers Ltd\project\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.Form1.resources
+D:\Rishit computers Ltd\project\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.Properties.Resources.resources
+D:\Rishit computers Ltd\project\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.csproj.GenerateResource.Cache
+D:\Rishit computers Ltd\project\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.exe
+D:\Rishit computers Ltd\project\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.pdb
+H:\EmployeeInfoSystemApp\EmployeeInfoSystemApp\bin\Debug\EmployeeInfoSystemApp.exe.config
+H:\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.exe
+H:\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.pdb
+E:\Shiladcc\EmployeeInfoSystemApp\EmployeeInfoSystemApp\bin\Debug\EmployeeInfoSystemApp.exe.config
+E:\Shiladcc\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.exe
+E:\Shiladcc\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.pdb
+E:\Shiladcc\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.csprojResolveAssemblyReference.cache
+E:\Shiladcc\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.Form1.resources
+E:\Shiladcc\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.Properties.Resources.resources
+E:\Shiladcc\EmployeeInfoSystemApp\EmployeeInfoSystemApp\obj\Debug\EmployeeInfoSystemApp.csproj.GenerateResource.Cache
